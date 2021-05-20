@@ -1,0 +1,33 @@
+State,PHN code,PHN Name,Reporting Year,attendence per person,expense per person
+National,National,Australia,2016-17,6.1,308.39
+NSW,PHN101,Central and Eastern Sydney,2016-17,5.8,291.75
+NSW,PHN102,Northern Sydney,2016-17,5.4,275.24
+NSW,PHN103,Western Sydney,2016-17,7.4,360.61
+NSW,PHN104,Nepean Blue Mountains,2016-17,7.2,353.67
+NSW,PHN105,South Western Sydney,2016-17,7.7,363.75
+NSW,PHN106,South Eastern NSW,2016-17,6.5,325.69
+NSW,PHN107,Western NSW,2016-17,5.7,295.57
+NSW,PHN108,Hunter New England and Central Coast,2016-17,6.3,326.12
+NSW,PHN109,North Coast,2016-17,6.6,353.95
+NSW,PHN110,Murrumbidgee,2016-17,6,303.86
+VIC,PHN201,North Western Melbourne,2016-17,6.5,316.41
+VIC,PHN202,Eastern Melbourne,2016-17,6,300.05
+VIC,PHN203,South Eastern Melbourne,2016-17,6.2,305.35
+VIC,PHN204,Gippsland,2016-17,6.4,305.23
+VIC,PHN205,Murray,2016-17,6.2,309.52
+VIC,PHN206,Western Victoria,2016-17,6.1,300.58
+QLD,PHN301,Brisbane North,2016-17,5.9,303.14
+QLD,PHN302,Brisbane South,2016-17,6.2,313.81
+QLD,PHN303,Gold Coast,2016-17,6.8,355.17
+QLD,PHN304,Darling Downs and West Moreton,2016-17,6.3,319.89
+QLD,PHN305,Western Queensland,2016-17,5.1,274.54
+QLD,PHN306,"Central Queensland, Wide Bay and Sunshine Coast",2016-17,6.6,339.37
+QLD,PHN307,Northern Queensland,2016-17,5.7,296.27
+SA,PHN401,Adelaide,2016-17,6.4,324.78
+SA,PHN402,Country SA,2016-17,5.9,290.33
+WA,PHN501,Perth North,2016-17,5.4,266.84
+WA,PHN502,Perth South,2016-17,5.6,277.5
+WA,PHN503,Country WA,2016-17,4.8,247.9
+TAS,PHN601,Tasmania,2016-17,5.6,279.37
+NT,PHN701,Northern Territory,2016-17,4.4,237.97
+ACT,PHN801,Australian Capital Territory,2016-17,4.8,236.21

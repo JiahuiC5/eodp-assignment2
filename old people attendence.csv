@@ -1,0 +1,33 @@
+State,PHN code,PHN Name,Male,Female ,<15,15-24,25-44,45-64,65+
+National,National,Australia,5.3,7.0,4.2,4.0,5.0,6.5,11.8
+NSW,PHN101,Central and Eastern Sydney,5.1,6.5,4.8,2.9,4.3,6.7,12.4
+NSW,PHN102,Northern Sydney,4.7,6.0,4.0,3.5,4.1,5.3,10.7
+NSW,PHN103,Western Sydney,6.5,8.3,5.8,4.8,6.3,8.6,14.3
+NSW,PHN104,Nepean Blue Mountains,6.2,8.1,5.2,5.1,6.4,7.6,12.8
+NSW,PHN105,South Western Sydney,6.8,8.6,5.6,4.9,6.8,8.9,14.2
+NSW,PHN106,South Eastern NSW,5.6,7.3,3.8,4.4,5.3,6.4,11.7
+NSW,PHN107,Western NSW,5.0,6.4,3.1,4.2,4.6,5.9,10.9
+NSW,PHN108,Hunter New England and Central Coast,5.5,7.1,3.6,4.3,5.0,6.4,12.1
+NSW,PHN109,North Coast,5.9,7.3,3.1,4.5,5.0,6.3,12.0
+NSW,PHN110,Murrumbidgee,5.3,6.8,3.4,4.3,4.7,5.8,11.6
+VIC,PHN201,North Western Melbourne,5.6,7.3,5.0,3.7,5.4,7.6,13.4
+VIC,PHN202,Eastern Melbourne,5.1,6.9,4.2,3.7,5.1,6.2,11.4
+VIC,PHN203,South Eastern Melbourne,5.3,7.1,4.4,4.1,5.3,6.6,11.5
+VIC,PHN204,Gippsland,5.5,7.4,3.3,4.8,5.4,6.2,11.2
+VIC,PHN205,Murray,5.3,7.1,3.5,4.8,5.4,6.1,10.9
+VIC,PHN206,Western Victoria,5.2,7.0,3.5,4.5,5.3,6.1,10.9
+QLD,PHN301,Brisbane North,5.0,6.8,4.2,3.7,4.8,6.4,12.2
+QLD,PHN302,Brisbane South,5.4,7.0,4.5,4.1,5.2,6.9,12.3
+QLD,PHN303,Gold Coast,5.9,7.6,4.4,4.4,5.5,7.2,13.3
+QLD,PHN304,Darling Downs and West Moreton,5.5,7.1,4.1,4.5,5.4,6.8,12.0
+QLD,PHN305,Western Queensland,4.4,5.7,3.2,3.8,3.9,5.9,10.9
+QLD,PHN306,"Central Queensland, Wide Bay and Sunshine Coast",5.8,7.4,3.7,4.7,5.1,6.7,12.4
+QLD,PHN307,Northern Queensland,5.0,6.4,3.7,4.1,4.7,6.2,11.2
+SA,PHN401,Adelaide,5.5,7.2,4.4,3.9,5.3,6.5,11.9
+SA,PHN402,Country SA,5.2,6.7,3.4,4.4,4.7,5.6,10.9
+WA,PHN501,Perth North,4.6,6.2,4.0,3.7,4.3,5.6,10.9
+WA,PHN502,Perth South,4.8,6.5,4.1,3.8,4.7,5.9,11.1
+WA,PHN503,Country WA,4.1,5.6,3.0,3.8,3.7,5.1,10.2
+TAS,PHN601,Tasmania,4.7,6.4,3.1,3.8,4.3,5.6,10.6
+NT,PHN701,Northern Territory,3.7,5.0,3.1,3.1,3.8,5.2,10.9
+ACT,PHN801,Australian Capital Territory,4.0,5.6,3.9,3.1,4.2,5.1,9.5

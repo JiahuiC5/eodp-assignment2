@@ -1,0 +1,33 @@
+State,PHN code,PHN area name,Reporting Year,Did not see a GP (%)
+National,National,Australia,2016-17,12.5
+NSW,PHN101,Central and Eastern Sydney,2016-17,18.5
+NSW,PHN102,Northern Sydney,2016-17,13.1
+NSW,PHN103,Western Sydney,2016-17,8.9
+NSW,PHN104,Nepean Blue Mountains,2016-17,6.7
+NSW,PHN105,South Western Sydney,2016-17,5.8
+NSW,PHN106,South Eastern NSW,2016-17,11.4
+NSW,PHN107,Western NSW,2016-17,12.8
+NSW,PHN108,Hunter New England and Central Coast,2016-17,10.6
+NSW,PHN109,North Coast,2016-17,9.3
+NSW,PHN110,Murrumbidgee,2016-17,12.6
+VIC,PHN201,North Western Melbourne,2016-17,15.1
+VIC,PHN202,Eastern Melbourne,2016-17,13.2
+VIC,PHN203,South Eastern Melbourne,2016-17,12.7
+VIC,PHN204,Gippsland,2016-17,9.8
+VIC,PHN205,Murray,2016-17,9.9
+VIC,PHN206,Western Victoria,2016-17,10.4
+QLD,PHN301,Brisbane North,2016-17,14.2
+QLD,PHN302,Brisbane South,2016-17,11.9
+QLD,PHN303,Gold Coast,2016-17,11
+QLD,PHN304,Darling Downs and West Moreton,2016-17,11.5
+QLD,PHN305,Western Queensland,2016-17,15.6
+QLD,PHN306,"Central Queensland, Wide Bay and Sunshine Coast",2016-17,10
+QLD,PHN307,Northern Queensland,2016-17,13.6
+SA,PHN401,Adelaide,2016-17,11.1
+SA,PHN402,Country SA,2016-17,12.4
+WA,PHN501,Perth North,2016-17,13.5
+WA,PHN502,Perth South,2016-17,13.2
+WA,PHN503,Country WA,2016-17,17.3
+TAS,PHN601,Tasmania,2016-17,13.1
+NT,PHN701,Northern Territory,2016-17,25.1
+ACT,PHN801,Australian Capital Territory,2016-17,14.1
